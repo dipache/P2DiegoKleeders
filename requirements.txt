@@ -1,0 +1,5 @@
+Flask
+Werkzeug
+Flask-RESTful 
+psycopg2-binary 
+Flask-SQLAlchemy
